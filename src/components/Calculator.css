@@ -17,6 +17,8 @@ button:hover{
    border-radius: 1em;
 
    padding: 1em;
+
+   box-shadow: 0 0 1em 0.5em #505050;
 }
 
 .orange {
